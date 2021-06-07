@@ -1,1 +1,1 @@
-# Zabbixapi
+# Zabbix_api
