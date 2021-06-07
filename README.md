@@ -2,6 +2,8 @@
 The repo contains different scripts that can be used for managing Zabbix monitoring configurations
 Programming Language used: Python 3.6.8
 
+# Get Zabbix host ID
+
 1. To fetch host Ids of hosts added in Zabbbix from a list of servers
 
 - get_hostid.py
@@ -17,6 +19,7 @@ Prerequisites:
     * Create a file server_list.txt and add the hostnames in it
 
 
+# Delete Zabbix hosts
 
 2. To delete a lists of hosts from Zabbix Monitoring
 
