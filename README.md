@@ -14,4 +14,21 @@ Prerequisites:
 
     * Modify the script to use the actual Zabbix Server URL
     
-    * Create a file server_list.txt and add the hostnames in ti
+    * Create a file server_list.txt and add the hostnames in it
+
+
+
+2. To delete a lists of hosts from Zabbix Monitoring
+
+- delete_host.py
+
+
+This script can be used to deletet the hosts that are already added to Zabbix
+
+
+Prerequisites:
+
+    * Modify the script to use the actual Zabbix Server URL
+
+    * Create a file server_list.txt and add the hostnames of the servers, that needed to delete in it
+
